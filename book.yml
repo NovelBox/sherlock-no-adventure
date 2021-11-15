@@ -1,0 +1,18 @@
+#!SMSdata
+book:
+  title: （仮）勇者シャーロックは冒険しない
+  copy: コピィ
+  theme: テーマ
+  genre: ファンタジィ
+  target: 10-30台男女
+  contests: なし
+  caution: なし
+  sites:
+    - 小説家になろう
+    - カクヨム
+    - エブリスタ
+    - ノベルアッププラス
+  tags:
+    - novel
+  version: "0.0.1"
+  note: 備考
