@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: mary
+  name: マリー
+  fullname: 山田,太郎
+  age: 15
+  sex: female
+  job: 少女
+  belong: なし
+  calling:
+    me: わたし
+  note: 備考

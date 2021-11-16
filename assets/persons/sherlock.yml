@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: sherlock
+  name: シャーロック
+  fullname: 木村,花子
+  age: 27
+  sex: male
+  job: 探偵
+  belong: 私立
+  calling:
+    me: 僕
+  note: 備考
