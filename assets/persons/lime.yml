@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: line
+  name: ライム
+  fullname: 山田,太郎
+  age: 18
+  sex: female
+  job: 少女
+  belong: なし
+  calling:
+    me: 私
+  note: 備考

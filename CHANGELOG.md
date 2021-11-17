@@ -6,9 +6,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.2.0] - 2021-11-17
+### Added
+- outline of stories
+
 ## [0.0.1] - 2021-11-15
 ### Added
 - basic files for sms building
 
-[Unreleased]: https://github.com/NovelBox/<repo>/compare/v0.0.9...HEAD
+[Unreleased]: https://github.com/NovelBox/<repo>/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/NovelBox/<repo>/releases/v0.2.0
 [0.0.1]: https://github.com/NovelBox/<repo>/releases/v0.0.1

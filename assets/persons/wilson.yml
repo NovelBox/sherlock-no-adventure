@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: wilson
+  name: ウィルソン
+  fullname: 山田,太郎
+  age: 27
+  sex: male
+  job: エージェント
+  belong: 公的機関
+  calling:
+    me: 私
+  note: 備考
