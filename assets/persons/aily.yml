@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: aily
+  name: アイリィ
+  fullname: 山田,太郎
+  age: 28
+  sex: female
+  job: 歌手
+  belong: 歌劇団
+  calling:
+    me: 私
+  note: 備考
