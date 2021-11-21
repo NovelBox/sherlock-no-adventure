@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: restrade
+  name: レストラーデ
+  fullname: 山田,太郎
+  age: 27
+  sex: male
+  job: 警部
+  belong: 王室警察
+  calling:
+    me: 儂
+  note: 備考
