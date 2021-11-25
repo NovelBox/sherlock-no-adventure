@@ -24,3 +24,24 @@ $sherlockは$maryを救出し、$morianoを倒すために単身で別荘へと�
 最近$sherlockが家に不在なことが増えていた。そんな折、殺人事件の容疑者として$sherlockに逮捕状が出る
 $sherlockはずっと裏で糸を引いている存在を追いかけていて、それが元天才学者の$morianoと突き止めたが、彼にハメられたのだ。その上$maryも彼の甘言にはまり、$sherlockの許を去ってしまう
 $mary救出の為に$morianoの別荘へと単身やってきた$sherlockは、洗脳された$maryに刺されてしまうが、彼女の暗示を解き、一人で逃げた$morianoを追う。帰ってきた$maryから$wilsonたちはその$sherlockが$morianoとともに滝壺に落ちたことを聞いた
+
+# Plot(block)
+
+[plot:block]
+・$sherlock忙しい：最近$sherlockは家にいないことが多い。$maryは不満
+・$maryの悩み：$maryは$sherlockのこともそうだが、自分の出生、$ajinについて悩んでいた。商店街の人たちにも話す
+・$maryと$ignes：$maryは$ignesの将来の話を聞く。今後どうなっていくか。彼の夢の話
+・$maryと老紳士：$maryは帰り道で道端にうずくまっている老紳士を見つける
+・$moriano教授について：$sherlockは$wilsonに$morianoという元教授について語る。犯罪学者、心理学者、統計データを用いたプロファイリングという技術を開発した
+・$morianoと対面：$maryがつれてきた老紳士が$morianoだった
+・$sherlockという男：$morianoにより$sherlockの失敗を列挙される。$sherlockは防げた事件を防がなかった。無能だし、他人に対して冷たい。自己中心だという分析
+・$maryへの甘言：$morianoにより$maryに対して$ajinをいつか滅ぼすだろうと
+・$sherlock逮捕：$patsonがきて$sherlockを逮捕する。殺人事件の容疑者
+・$sherlockの尋問：$patsonにより尋問。事件はある元教授殺し
+・元教授殺人事件：$maryたちの聞き取り調査。$sherlockはその教授の家にずっと出入りしていた
+・$sherlockの話：$sherlockは闇の技術について、その教授に教わっていた。先の魔獣復活もその古代技術を使ったものだった
+・$mary失踪：$maryが姿を消す
+・別荘：$sherlockは$maryを助けるために$morianoの別荘に単身訪れる
+・対決：$sherlockは操られた$maryに刺される＞$maryは正気に戻る
+・$maryの報告：帰ってきた$maryは$sherlockが$morianoと二人で滝壺に落下したと教えた
+

@@ -13,3 +13,18 @@ word:
   ajin:
     name: 亜人
     info: 人ならざる人型の闇の生き物
+  magicstone:
+    name: 魔石
+    info: 魔王の力が入った石
+  redstone:
+    name: 紅魔石
+    info: 四大魔石の一つ
+  bluestone:
+    name: 蒼魔石
+    info: 四大魔石の一つ
+  blackstone:
+    name: 黒魔石
+    info: 四大魔石の一つ
+  whitestone:
+    name: 白魔石
+    info: 四大魔石の一つ
