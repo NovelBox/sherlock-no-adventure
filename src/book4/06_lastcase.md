@@ -18,6 +18,13 @@ $maryが失踪し、$morianoから書状が届く
 $sherlockは$maryを救出し、$morianoを倒すために単身で別荘へと乗り込む
 帰ってきた$maryから$sherlockが滝壺に落ちたと聞かされる
 
+# 参考
+
+[note:最後の事件]
+イタリア人の老神父：シャーロックの変装
+マイクロフト・ホームズ
+病気のイギリス人女性：ワトソンを戻らせるために作られた架空の人物
+
 # Plot(3lines)
 
 [plot:三行]
@@ -44,4 +51,16 @@ $mary救出の為に$morianoの別荘へと単身やってきた$sherlockは、�
 ・別荘：$sherlockは$maryを助けるために$morianoの別荘に単身訪れる
 ・対決：$sherlockは操られた$maryに刺される＞$maryは正気に戻る
 ・$maryの報告：帰ってきた$maryは$sherlockが$morianoと二人で滝壺に落下したと教えた
+
+# Plot(alloc)
+
+[plot:alloc]
+- 5K:$maryの悩み：$sherlockは最近忙しい。$maryは$ajinであることに悩む。うずくまっている老紳士を見つける
+- 5K:$moriano教授：$sherlockは$wilsonに$morianoについて語る。天才だ。帰ってきた$maryがつれていたのが$morianoだった
+- 5K:$sherlockという男：$morianoは$sherlockに手を引くよう警告する。$sherlockがやってきたことは全て後始末で、本当はわかっていたのに阻止しなかったと。$maryに甘言
+- 5K:$mary失踪と殺人事件：$sherlockが逮捕される。ある研究者の殺人事件。$sherlockはずっと調べていて、会っていた。$maryが姿を消す
+- 5K:$morianoの企み：$morianoは魔王復活を企んでいる。人間が嫌いで、すべてを最初からやり直そうと。$maryも彼の別荘だと判明
+- 5K:$sherlockの頼み：$sherlockは$limeが第二王女であることを知っていて、彼女に色々と託す。すべての責任を取ると言った
+- 5K:$mary救出：$sherlockは単身$mary救出に向かう。操られた$maryに刺される。$sherlockは負傷しながらも$morianoを追う
+- 5K:報告：帰ってきた$maryから$sherlockが滝壺に落ちたという話を聞く
 
