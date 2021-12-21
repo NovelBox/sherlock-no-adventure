@@ -1,12 +1,12 @@
 #!SMSdata
 person:
-  tag: ruby
-  name: ルビィ
+  tag: kyle
+  name: カイル
   fullname: 山田,太郎
-  age: 28
-  sex: female
-  job: 怪盗
+  age: 14
+  sex: male
+  job: 無職
   belong: なし
   calling:
-    me: 私
+    me: オレ
   note: 備考
