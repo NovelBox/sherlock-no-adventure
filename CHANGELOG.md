@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.4.0] - 2022-01-12
+### Added
+- Episode plots
+
 ## [0.3.1] - 2021-11-20
 ### Added
 - 3 line plots
@@ -22,7 +26,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 - basic files for sms building
 
-[Unreleased]: https://github.com/NovelBox/<repo>/compare/v0.3.1...HEAD
+[Unreleased]: https://github.com/NovelBox/<repo>/compare/v0.4.0...HEAD
+[0.4.0]: https://github.com/NovelBox/<repo>/releases/v0.4.0
 [0.3.1]: https://github.com/NovelBox/<repo>/releases/v0.3.1
 [0.3.0]: https://github.com/NovelBox/<repo>/releases/v0.3.0
 [0.2.0]: https://github.com/NovelBox/<repo>/releases/v0.2.0
