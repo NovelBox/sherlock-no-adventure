@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: lupy
+  name: ルピィ
+  fullname: ルンペン,ルピィ
+  age: 28
+  sex: female
+  job: 怪盗
+  belong: なし
+  calling:
+    me: 私
+  note: 備考

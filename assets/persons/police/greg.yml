@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: greg
+  name: グレッグ
+  fullname: 山田,太郎
+  age: 27
+  sex: male
+  job: 警部
+  belong: 王室警察
+  calling:
+    me: 私
+  note: 備考

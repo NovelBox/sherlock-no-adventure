@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: jake
+  name: ジェイク
+  fullname: 山田,太郎
+  age: 28
+  sex: male
+  job: 殺人犯
+  belong: 個人
+  calling:
+    me: 俺
+  note: 備考
