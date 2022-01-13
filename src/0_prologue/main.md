@@ -154,8 +154,6 @@ $wilsonは翌日、$Baker街に向かう
 
 # 本文
 
-[wilson:be]
-[-:D]
-仕事を依頼された
+<a_man>
 
 
