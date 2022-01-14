@@ -412,4 +412,21 @@ $maryは自分がいつの間にかマインドコントロールされていた
 $morianoがこの間に逃亡していることを告げると、$sherlockは後を追った
 滝まで駆けつけると、そこで二人がもみ合いになり滝壺の下へと落下したのを見届けたと
 
+# 本文
+
+[note:箱]
+・記述者による記述（産業の発展と犯罪の関係）
+・忙しい$sherlockと$maryの悩み
+・$sherlockによる$moarianoの話
+・$morianoとの対峙
+・殺人事件の容疑者$sherlock
+・$maryは$moarianoと合流
+・研究家の家の調査
+・$mary失踪と$sherlockの冷たい態度
+・リンチ殺人事件
+・逃亡する$moriano
+・対決を覚悟する$sherlock
+・別荘のあるドイツへ
+・$wilsonと別れる
+・$maryによる$sherlockの最後の解説
 
