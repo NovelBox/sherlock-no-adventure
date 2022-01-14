@@ -430,3 +430,13 @@ $morianoがこの間に逃亡していることを告げると、$sherlockは後
 ・$wilsonと別れる
 ・$maryによる$sherlockの最後の解説
 
+[note:block]
+１．冒頭（記述部｜）
+２．$morianoという男
+３．研究家殺人事件
+４．$maryのいない日々
+５．宗教団体とリンチ殺人
+６．$sherlockのけじめ
+７．$sherlockと$moriano
+８．$maryによる$sherlockの最後報告
+
