@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: macky
+  name: マッキィ
+  fullname: 山田,太郎
+  age: 25
+  sex: male
+  job: 巡査部長
+  belong: 王室警察
+  calling:
+    me: 私
+  note: 備考

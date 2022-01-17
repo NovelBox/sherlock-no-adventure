@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: cloud
+  name: クロード
+  fullname: 山田,太郎
+  age: 48
+  sex: male
+  job: 団長
+  belong: ロイヤルオペラ団
+  calling:
+    me: 私
+  note: 備考

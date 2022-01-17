@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: maple
+  name: メイプル
+  fullname: 山田,太郎
+  age: 28
+  sex: female
+  job: 研究家
+  belong: 個人
+  calling:
+    me: 私
+  note: 備考
