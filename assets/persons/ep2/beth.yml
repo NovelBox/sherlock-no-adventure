@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: beth
+  name: ベス
+  fullname: モーニング,ベス
+  age: 25
+  sex: female
+  job: 新聞記者
+  belong: 会社
+  calling:
+    me: 私
+  note: 備考

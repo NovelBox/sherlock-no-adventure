@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: rick
+  name: リック
+  fullname: テイナー,リック
+  age: 15
+  sex: male
+  job: 使用人
+  belong: 個人
+  calling:
+    me: 俺
+  note: 備考

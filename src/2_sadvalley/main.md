@@ -388,3 +388,12 @@ $sherlockは$maryに料理ができるかと尋ねた
 ７．母と娘
 ８．事件後記
 
+<2_beginning>
+<2_town>
+<2_investigate1>
+<2_mary>
+<2_investigate2>
+<2_judge>
+<2_mother>
+<2_postscript>
+

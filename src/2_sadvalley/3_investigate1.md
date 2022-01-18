@@ -1,8 +1,8 @@
 #!SMSscript
 
-## scene01
+## 2_investigate1
 
-::title = タイトル
+::title = 捜査その１
 ::camera = カメラ
 ::stage = ステージ
 ::location = INT
