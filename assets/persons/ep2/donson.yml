@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: donson
+  name: ドンソン
+  fullname: ドンソン,ジョージ
+  age: 45
+  sex: male
+  job: 刑事
+  belong: 地元
+  calling:
+    me: 私
+  note: 備考
