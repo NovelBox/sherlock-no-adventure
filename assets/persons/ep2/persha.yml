@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: persha
+  name: ペルシャ
+  fullname: モロー,ペルシャ
+  age: 10
+  sex: female
+  job: 少女
+  belong: なし
+  calling:
+    me: わたし
+  note: 備考
