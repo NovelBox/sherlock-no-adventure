@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: darwin
+  name: ダルウィン
+  fullname: ダルウィン,レオン
+  age: 28
+  sex: male
+  job: 研究者
+  belong: 個人
+  calling:
+    me: 私
+  note: 備考
