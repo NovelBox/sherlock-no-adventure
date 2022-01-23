@@ -303,3 +303,12 @@ $sherlockは着いてきなさい、と彼を連れ出す
 ７．マフィアのアジト
 ８．騎士の正体
 
+<3_beginning>
+<3_wilsons_req>
+<3_mystery_knight>
+<3_fire_and_murder>
+<3_bank_robbery>
+<3_employedman>
+<3_mafia>
+<3_knight_truth>
+
