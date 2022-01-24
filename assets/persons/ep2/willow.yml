@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: willow
+  name: ウィロー
+  fullname: ウィロー,カインツ
+  age: 45
+  sex: male
+  job: 医師
+  belong: 地元
+  calling:
+    me: 私
+  note: 備考

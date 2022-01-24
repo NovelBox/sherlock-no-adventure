@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: claus
+  name: クラウス
+  fullname: クラウス,ウィリアン
+  age: 45
+  sex: male
+  job: 猟師
+  belong: 地元
+  calling:
+    me: 俺
+  note: 備考

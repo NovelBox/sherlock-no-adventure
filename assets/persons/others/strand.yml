@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: strand
+  name: ストランド
+  fullname: 山田,太郎
+  age: 28
+  sex: male
+  job: 医師
+  belong: ウィルソンの旧友
+  calling:
+    me: 俺
+  note: 備考

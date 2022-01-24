@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: charlotte
+  name: シャルロッテ
+  fullname: 山田,太郎
+  age: 30
+  sex: female
+  job: 女王
+  belong: 王室
+  calling:
+    me: 私
+  note: 備考

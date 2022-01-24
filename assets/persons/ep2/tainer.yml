@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: tainer
+  name: テイナー
+  fullname: テイナー,ジョーンズ
+  age: 35
+  sex: male
+  job: 使用人
+  belong: 個人
+  calling:
+    me: 私
+  note: 備考

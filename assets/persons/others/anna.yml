@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: anna
+  name: アンナ
+  fullname: 山田,アンナ
+  age: 28
+  sex: female
+  job: 使用人
+  belong: ハリソン氏の家
+  calling:
+    me: 私
+  note: 備考

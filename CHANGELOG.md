@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Note
+- Hako block phase
+
+### Added
+
 ## [0.4.0] - 2022-01-12
 ### Added
 - Episode plots

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: arseno
+  name: アルセーノ
+  fullname: ルンペン,アルセーノ
+  age: 28
+  sex: male
+  job: 盗賊
+  belong: 個人
+  calling:
+    me: 私
+  note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: remy
+  name: レミィ
+  fullname: 山田,太郎
+  age: 28
+  sex: female
+  job: 使用人
+  belong: 歌劇団
+  calling:
+    me: 私
+  note: 備考

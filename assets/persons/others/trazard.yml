@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: trazard
+  name: トラザール
+  fullname: 山田,太郎
+  age: 28
+  sex: male
+  job: 医師
+  belong: 検死を担当
+  calling:
+    me: ワシ
+  note: 備考

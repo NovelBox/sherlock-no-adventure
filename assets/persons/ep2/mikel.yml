@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: mikel
+  name: マイケル
+  fullname: ノートン,マイケル
+  age: 35
+  sex: male
+  job: 新聞社社員
+  belong: 会社
+  calling:
+    me: オレ
+  note: 備考

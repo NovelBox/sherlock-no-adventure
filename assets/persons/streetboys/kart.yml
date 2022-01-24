@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: kart
+  name: カート
+  fullname: 山田,太郎
+  age: 14
+  sex: male
+  job: 無職
+  belong: 少年探偵団
+  calling:
+    me: オレ
+  note: 備考

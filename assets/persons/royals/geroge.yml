@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: george
+  name: ジョルジ
+  fullname: 山田,太郎
+  age: 30
+  sex: male
+  job: 王
+  belong: 王室
+  calling:
+    me: 私
+  note: 備考
