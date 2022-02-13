@@ -6,10 +6,16 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+- plot
+
 ### Note
 - Hako block phase
 
 ### Added
+## [0.5.1] - 2022-01-24
+### Added
+- ep1 and ep2 hako
 
 ## [0.4.0] - 2022-01-12
 ### Added
@@ -31,7 +37,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 - basic files for sms building
 
-[Unreleased]: https://github.com/NovelBox/<repo>/compare/v0.4.0...HEAD
+[Unreleased]: https://github.com/NovelBox/<repo>/compare/v0.5.10...HEAD
+[0.5.10]: https://github.com/NovelBox/<repo>/releases/v0.5.10
+[0.5.1]: https://github.com/NovelBox/<repo>/releases/v0.5.1
 [0.4.0]: https://github.com/NovelBox/<repo>/releases/v0.4.0
 [0.3.1]: https://github.com/NovelBox/<repo>/releases/v0.3.1
 [0.3.0]: https://github.com/NovelBox/<repo>/releases/v0.3.0
